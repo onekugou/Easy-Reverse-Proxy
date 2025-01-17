@@ -5,7 +5,7 @@ export interface proxy {
 
 export let proxys:Proxy[] = [
     {
-        domain: "www.edgeone.app",
+        domain: "easy-reverse-proxy.vercel.app",
         url: "http://www.google.com/"
     }     
 ];
