@@ -5,7 +5,7 @@ export interface proxy {
 
 export let proxys:Proxy[] = [
     {
-        domain: "easy-reverse-proxy.edgeone.app",
+        domain: "www.edgeone.app",
         url: "http://www.google.com/"
     }     
 ];
